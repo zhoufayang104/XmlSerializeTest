@@ -1,6 +1,0 @@
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\bin\Debug\XmlSerializeTest.exe.config
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\bin\Debug\XmlSerializeTest.exe
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\bin\Debug\XmlSerializeTest.pdb
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\obj\Debug\XmlSerializeTest.exe
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\obj\Debug\XmlSerializeTest.pdb
-C:\其他文件\Projects\XmlSerializeTest\XmlSerializeTest\obj\Debug\XmlSerializeTest.csprojResolveAssemblyReference.cache
